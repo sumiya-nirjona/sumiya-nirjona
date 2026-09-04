@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sumiya Akter Nirjona 👋
 
-<!--
-**sumiya-nirjona/sumiya-nirjona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI & Machine Learning Enthusiast | Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+
+💻 I'm interested in:
+- AI & Machine Learning
+- Problem Solving
+- Building practical projects
+- Learning new technologies
+
+🚀 My goal is to continuously learn, build projects, and grow as an AI/ML professional.
+
+### Connect with me
+- LinkedIn: [Sumiya Akter Nirjona](https://www.linkedin.com/in/sumiya-akter-nirjona-590967433/)
